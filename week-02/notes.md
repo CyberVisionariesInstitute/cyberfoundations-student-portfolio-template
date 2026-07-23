@@ -1,6 +1,6 @@
 # Week 2 Notes — Cybersecurity Landscape & Digital Infrastructure Overview
 
-Summarize this week's key concepts in your own words — not copy-pasted definitions.
+Summarize this week's key concepts in your own words - not copy-pasted definitions.
 
 ## Key Concepts This Week
 
@@ -16,5 +16,5 @@ Summarize this week's key concepts in your own words — not copy-pasted definit
 **How do hardware, OS, and software layers interact?**
 
 
-**One term I want to remember from this week, and why:**
+**One term i want to remember from this week, and why:**
 
