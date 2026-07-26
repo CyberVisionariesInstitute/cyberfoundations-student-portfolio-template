@@ -1,12 +1,12 @@
 # CyberVisionaries Institute (CVI) — Cyber Foundations Student Portfolio
 
-**New here? Read [START-HERE.md](START-HERE.md) first — it walks you through your very first commit, step by step.**
+**New here? Read [START-HERE.md](start%20here/START-HERE.md) first — it walks you through your very first commit, step by step.**
 
 This repository documents your hands-on learning through the **CyberVisionaries Institute Cyber Foundations (Tier I)** program.
 
 This is your working portfolio — **not the instructor repository.** All lesson content and lab instructions live here, in your own repo — you never need to pull anything from an instructor repo.
 
-New to GitHub in general (not just this repo)? See the [CVI GitHub Handbook](https://github.com/CyberVisionariesInstitute/cvi-github-handbook) for accounts, key terms, and how templates work.
+New to GitHub in general (not just this repo)? See the [CVI GitHub Handbook](https://github.com/CyberVisionariesInstitute/cvi-cohort-handbook) for accounts, key terms, and how templates work.
 
 ## 1. Repository Purpose
 
