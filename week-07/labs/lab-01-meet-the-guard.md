@@ -1,7 +1,7 @@
 # Week 7 Lab 01 — Meet the Guard
 
-**Student Name:**  
-**Date Completed:**  
+**Student Name: Tonia Webster
+**Date Completed: August 27
 **Module:** 2 — Networking & Cloud Foundations | **Week:** 7  
 **Submission Path:** `week-07/labs/lab-01-meet-the-guard.md`
 
