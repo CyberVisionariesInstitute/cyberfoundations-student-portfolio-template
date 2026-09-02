@@ -67,7 +67,7 @@ Record each protected rule exactly as shown.
 For each field, write the question it answers: direction, source, source port, destination, destination port, protocol, action, and priority.
 
 ```text
-(write your field-to-question map here)
+Test data
 ```
 
 ## Stop & Check
